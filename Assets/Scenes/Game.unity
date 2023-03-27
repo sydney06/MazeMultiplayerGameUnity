@@ -559,8 +559,8 @@ MonoBehaviour:
   timerText: {fileID: 358568488}
   minX: -2.26
   maxX: 1.55
-  minY: -1.86
-  maxY: 2.22
+  minZ: -1.86
+  maxZ: 2.22
 --- !u!4 &365151257
 Transform:
   m_ObjectHideFlags: 0
